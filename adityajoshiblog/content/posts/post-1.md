@@ -1,63 +1,72 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2018-03-18T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
-type: "page"
+title: "Create Oracle database in Oracle Free Tier Cloud"
+date: 2022-05-02T09:07:23+05:30
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+If you want to work on oracle db but don't want to do setup or worry about performance of it in your machine then I would recommend you to try oracle ATP database in cloud. 
+Setting up new database and connecting with your trusty Oracle SQL Developer IDE is fairly simple. This guide will walk you through same.
 
-It all keeps piling up, and it can feel overwhelming.
+Prerequisite : You will need Oracle Cloud Free Tier Account to get started. Oracle ATP database is an always free service. 
+To create new account visit https://www.oracle.com/cloud/free/
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+### Create a new ATP Database
+1. From Dashboard, find and select option "Create an ATP database".
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+![20220207110632](/20220207110632.png)
 
-## The First Step: Triage
+2. This WIll open a form where you need to fill up information required to create a new DB. Select compartment where this database should reside, if not sure then keep default. Then provide name to be displayed and database name ( this will be further used when connecting. )
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+![20220207111436.png](/20220207111436.png)
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
 
-Here’s what you might do:
+3. Keep defaults, nothing to change here.
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+![20220207111514.png](/20220207111514.png)
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
 
-## Next: Focus on One Thing
+4. Make sure the Always Free is enabled. 
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+![20220207111547.png](/20220207111547.png)
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+5. Important section - you will have to provide password for ADMIN user ( note username is read-only ). Store it safely. This will be used to connect later.
 
-The shift:
+![20220207111618.png](/20220207111618.png)
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+6. Again, Keep defaults :)
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
+![20220207111645.png](/20220207111645.png)
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+7. You can provide email id in case you want to receive updates in future.
 
-## Third: Schedule Time to Simplify
+![20220207111722.png](/20220207111722.png)
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+Once you click on "Create Autonomous Database", it will take few minutes and your database will be ready to serve!
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+### Get your Oracle Credentials file on local
 
-## Fourth: Practice Mindful Focus
+We all know that in order to connect oracle db TNS entries are required, for our newly created db in cloud we will be downloading wallet ( client credentials ). 
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+To do that click on DB connections menu which will open pop-up like below. Click on Download wallet opion. This will download a zip file.
+Note - It will also ask you to setup a password to zip file. It's a good habit to set one.
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+![20220207112247.png](/20220207112247.png)
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+### Get copy of native Oracle SQL Developer
+Download Oracle SQL Developer from below link if you don't have.
+https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox
+
+### Connect to the Database using sql developer
+
+Once you have download, extract and run Oracle SQL Developer, right click on Oracle connection and select "New Connection".
+
+This should open a popup window like below. Fill up Name you want. "Username" will be "ADMIN" ( READ-ONLY from setup) and Password will your own password you configured when creating database.
+
+For connection type change it to Cloud Wallet and in Configuration File select the zip file you had downloaded in above step. 
+
+
+![20220207113120.png](/20220207113120.png)
+
+Once done, test your connection and save. 
+In case of any problem, go through these steps again to see what went wrong or missed out. 
