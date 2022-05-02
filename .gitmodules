@@ -1,0 +1,6 @@
+[submodule "adityajoshi/themes/hugo-clarity"]
+	path = adityajoshi/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
+[submodule "adityajoshiblog/public"]
+	path = adityajoshiblog/public
+	url = git@github.com:adityajoshi/adityajoshi.github.io.git
