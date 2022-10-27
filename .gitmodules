@@ -3,5 +3,5 @@
 	url = https://github.com/chipzoller/hugo-clarity
 [submodule "adityajoshiblog/public"]
 	path = adityajoshiblog/public
-	url = git@github.com:adityajoshi/adityajoshi.github.io.git
+	url = https://github.com/adityajoshi/adityajoshi.github.io.git
 	branch = main
