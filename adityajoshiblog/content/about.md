@@ -1,9 +1,11 @@
 ---
-title: "Hello!"
+title: "Thanks for stopping by!"
 type: "page"
 ---
 
-My name is Aditya Joshi. I am a software developer. I have been working in software industry for over a decade in server side technologies
-like Java, SQL, Python, Unix, Docker, Kubernetes and Redhat OpenShift.
 
-You can [email me](aditya.joshi1@outlook.com) or reach out on [linkedin.](https://www.linkedin.com/in/aditya-joshi-80340919/)
+My name is Aditya Joshi. I am a software developer. On this blog I share knowledge and experience that I gathered by working 10+ years as developer at IT industry.
+
+Countless times various articles or blog posts helped me, so its time to give back.
+
+You can reach me on [email](aditya.joshi1@outlook.com) or on [linkedin.](https://www.linkedin.com/in/aditya-joshi-80340919/)

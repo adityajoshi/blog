@@ -1,6 +1,6 @@
 baseURL = "https://adityajoshi.github.io/"
 languageCode = "en-us"
-title = "Aditya Joshi's Blog"
+title = "Aditya's Webpage "
 theme = "hugo-ink"
 paginate = 5
 
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 #disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Personal blog [hosted on github](https://github.com/adityajoshi/adityajoshi.github.io)"
+	# subtitle = ""
 
 	# Optional 64x64 avatar image.
 	avatar = "https://img.freepik.com/free-vector/lightbulb-illustration_24908-57936.jpg"
