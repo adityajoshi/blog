@@ -1,5 +1,5 @@
 ---
-title: "Mastering yt-dlp: A Comprehensive Guide to Downloading YouTube Videos"
+title: "Mastering yt-dlp"
 date: 2023-07-12T06:38:44+05:30
 draft: false
 ---
