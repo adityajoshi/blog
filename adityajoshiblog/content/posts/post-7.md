@@ -1,6 +1,7 @@
 ---
 title: "Useful docker commands"
 date: 2023-03-18T20:30:14+05:30
+tags: ["docker", "podman"]
 draft: false
 ---
 

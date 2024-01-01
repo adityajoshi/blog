@@ -1,6 +1,7 @@
 ---
 title: "Change Git Remote URL via terminal"
 date: 2022-09-18T12:42:54+05:30
+tags: ["git"]
 draft: false
 ---
 

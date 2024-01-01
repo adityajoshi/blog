@@ -1,6 +1,7 @@
 ---
 title: "Importance of brackets around variables in Makefile"
 date: 2023-12-22T00:35:57+05:30
+tags: ["make", "env"]
 draft: false
 ---
 

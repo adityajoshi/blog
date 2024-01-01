@@ -1,6 +1,7 @@
 ---
 title: "Create Oracle database in Oracle Free Tier Cloud"
 date: 2022-05-02T09:07:23+05:30
+tags: ["OCI", "Oracle Database"]
 ---
 
 If you want to work on oracle db but don't want to do setup or worry about performance of it in your machine then I would recommend you to try oracle ATP database in cloud. 

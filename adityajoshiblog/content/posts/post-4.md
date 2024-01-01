@@ -1,6 +1,7 @@
 ---
 title: "Solve Git submodule Update Error"
 date: 2022-09-19T23:14:34+05:30
+tags: ["git"]
 draft: false
 ---
 

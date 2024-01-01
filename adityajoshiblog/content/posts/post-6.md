@@ -1,6 +1,7 @@
 ---
 title: "Docker setup on mx linux"
 date: 2023-03-15T18:17:48+05:30
+tags: ["docker", "podman", "linux"]
 draft: false
 ---
 

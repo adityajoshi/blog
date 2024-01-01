@@ -1,6 +1,7 @@
 ---
 title: "Configure xdg-open for a File or URL"
 date: 2022-10-25T08:45:13+05:30
+tags: ["shell", "linux"]
 draft: false
 ---
 

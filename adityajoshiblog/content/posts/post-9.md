@@ -1,6 +1,7 @@
 ---
 title: "Mastering yt-dlp"
 date: 2023-07-12T06:38:44+05:30
+tags: ["yt-dlp", "python"]
 draft: false
 ---
 

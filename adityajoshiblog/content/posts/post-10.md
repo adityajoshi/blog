@@ -1,6 +1,7 @@
 ---
 title: "Useful commands and scripts"
 date: 2023-11-15T08:36:08+05:30
+tags: ["unix", "shell"]
 draft: false
 ---
 

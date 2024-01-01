@@ -1,6 +1,7 @@
 ---
 title: "Reduce Thinkpad's trackpoint sluggishness on Linux"
 date: 2022-09-17T22:58:11+05:30
+tags: ["thinkad", "Linux"]
 draft: false
 ---
 

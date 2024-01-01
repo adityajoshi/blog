@@ -1,6 +1,7 @@
 ---
 title: "Intro to Dockerfile"
 date: 2023-03-16T20:39:18+05:30
+tags: ["docker", "podman"]
 draft: false
 ---
 

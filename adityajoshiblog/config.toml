@@ -3,7 +3,7 @@ baseURL = "https://adityajoshi.github.io/"
 languageCode = "en-us"
 title = "Aditya's Webpage "
 theme = "hugo-ink"
-paginate = 5
+paginate = 7
 
 copyright = "© Copyright notice"
 
@@ -24,6 +24,7 @@ googleAnalytics = "UA-123-45"
 	disableDisqusTypes = ["page"]
 	
 	featherIconsCDN = true
+	date_format= "%Y-%m-%d" # customize how date is formatted
 
 	mode = "auto" # "dark" or "auto"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
@@ -46,10 +47,10 @@ name = "About"
 url = "/about"
 weight = 3
 
-#[[menu.main]]
-#name = "Tags"
-#url = "/tags"
-#weight = 4
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 [[params.social]]
 name = "Github"
