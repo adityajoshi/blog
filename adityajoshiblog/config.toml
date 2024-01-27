@@ -1,6 +1,6 @@
 baseURL = "https://adityajoshi.github.io/"
 languageCode = "en-us"
-title = "Aditya's Webpage "
+title = "Aditya's Dev Corner 🚀"
 theme = "hugo-ink"
 paginate = 7
 
