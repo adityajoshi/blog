@@ -3,8 +3,12 @@ title: "Thanks for stopping by!"
 type: "page"
 ---
 
+## Hello! 
+I am Aditya Joshi and this is my webpage.  
+Purpose of this webpage is to serve as a personal journal for my daily coding endeavors and a springboard for future projects.  
 
-Welcome to Aditya's Dev Corner! 🚀 This blog serves as my tech memo, a quick recall for daily coding and future projects.
-You are welcome to join me on this digital journey of snippets and insights, as I navigate the vast landscape of software development.
 
-You can reach me at aditya.joshi1@outlook.com or on my [linkedin.](https://www.linkedin.com/in/aditya-joshi-80340919/)
+
+### Contact Info
+Email - aditya.joshi1@outlook.com  
+Social Media - [aditya@linkedin.](https://www.linkedin.com/in/aditya-joshi-80340919/)
