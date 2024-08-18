@@ -10,5 +10,5 @@ Purpose of this webpage is to serve as a personal journal for my daily coding en
 
 
 ### Contact Info
-Email - aditya.joshi1@outlook.com  
+Email - aditya@adityajoshi.xyz  
 Social Media - [aditya@linkedin.](https://www.linkedin.com/in/aditya-joshi-80340919/)
