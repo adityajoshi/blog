@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
+disqusShortname = ""
 
 [params]
 	# subtitle = ""

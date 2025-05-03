@@ -1,11 +1,13 @@
 ---
-title: "Thanks for stopping by!"
+#title: "Thanks for stopping by!"
 type: "page"
 ---
+This blog is my personal knowledge base—a place where I capture lessons, insights, and solutions, so that my future self has a friendly guide when he gets stuck. 
 
-## Hello! 
-I am Aditya Joshi and this is my webpage.  
-Purpose of this webpage is to serve as a personal journal for my daily coding endeavors and a springboard for future projects.  
+If you're here, perhaps you're stuck too. 
+
+Welcome aboard!
+
 
 
 
